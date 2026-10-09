@@ -20,14 +20,14 @@ I am building technical skills in data analysis and publishing my projects here.
 
 ## Education
 **Kyiv National Economic University named after Vadym Hetman (KNEU)**
+
 Finance, financial markets, 4th year
 
 ## Projects
 | Project | Tools | Description |
 |---|---|---|
-| Data Cleaning in SQL | MySQL | Cleaning and standardizing a raw dataset |<!--
-**Yuriy-Yakymets/Yuriy-Yakymets** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+| [AI Usage by Country](https://github.com/Yuriy-Yakymets/PortfolioProjects/tree/main/ai-usage-analysis) | MySQL, Tableau | Data cleaning, analysis and dashboard on AI usage across 11 countries |
+| Data Cleaning in SQL | MySQL | Cleaning and standardizing a raw dataset on global layoffs |
 
 
 
